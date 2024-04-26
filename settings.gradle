@@ -1,0 +1,4 @@
+//file:noinspection GrUnresolvedAccess
+rootProject.name = 'com.powerupsoftwareengineering.com.lambda-functions'
+
+include 'api'

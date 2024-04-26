@@ -1,0 +1,8 @@
+ext {
+    moduleName = 'lambda-functions-api'
+}
+
+apply from: "${rootDir}/${configurationPath}/shared-gradle-files/api.gradle"
+
+dependencies {
+}
