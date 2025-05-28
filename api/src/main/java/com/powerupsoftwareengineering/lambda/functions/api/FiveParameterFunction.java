@@ -1,4 +1,4 @@
-package com.powerup.lambda.functions.api;
+package com.powerupsoftwareengineering.lambda.functions.api;
 
 /**
  * The <code>ThreeParameterFunction</code> class defines a lambda expression function that takes three parameters and returns a value.

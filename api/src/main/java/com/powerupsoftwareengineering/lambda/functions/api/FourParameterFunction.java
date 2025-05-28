@@ -1,19 +1,19 @@
-package com.powerup.lambda.functions.api;
+package com.powerupsoftwareengineering.lambda.functions.api;
 
 /**
- * The <code>ThreeParameterVoidFunction</code> class defines a lambda expression function that takes three parameters with no return value.
+ * The <code>ThreeParameterFunction</code> class defines a lambda expression function that takes three parameters and returns a value.
  *
  * @param <T> The first parameter of the function.
  * @param <U> The second parameter of the function.
  * @param <V> The third parameter of the function.
  * @param <W> The fourth parameter of the function.
- * @param <X> The fifth parameter of the function.
+ * @param <R> The return value of the function.
  *
  * @author Chris Picard
  */
 @SuppressWarnings("unused")
 @FunctionalInterface
-public interface FiveParameterVoidFunction<T, U, V, W, X> {
+public interface FourParameterFunction<T, U, V, W, R> {
 
     /**
      * Apply invokes the function this lambda function represents.
@@ -22,7 +22,8 @@ public interface FiveParameterVoidFunction<T, U, V, W, X> {
      * @param two The second parameter of the function.
      * @param three The third parameter of the function.
      * @param four The fourth parameter of the function.
-     * @param five The fifth parameter of the function.
+     *
+     * @return The return value of the function.
      */
-    void apply(T one, U two, V three, W four, X five);
+    R apply(T one, U two, V three, W four);
 }
