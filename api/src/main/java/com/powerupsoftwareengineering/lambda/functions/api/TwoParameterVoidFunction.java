@@ -1,4 +1,4 @@
-package com.powerup.lambda.functions.api;
+package com.powerupsoftwareengineering.lambda.functions.api;
 
 /**
  * The <code>TwoParameterVoidFunction</code> class defines a lambda expression function that takes two parameters with no return value.
