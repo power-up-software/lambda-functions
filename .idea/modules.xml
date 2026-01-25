@@ -10,6 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/com.powerupsoftwareengineering.lambda-functions.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/com.powerupsoftwareengineering.lambda-functions.api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/com.powerupsoftwareengineering.lambda-functions.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/com.powerupsoftwareengineering.lambda-functions.api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/com.powerupsoftwareengineering.lambda-functions.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/com.powerupsoftwareengineering.lambda-functions.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-libraries.com.powerupsoftwareengineering.lambda-functions.iml" filepath="$PROJECT_DIR$/.idea/modules/common-libraries.com.powerupsoftwareengineering.lambda-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/common-libraries.com.powerupsoftwareengineering.lambda-functions.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/common-libraries.com.powerupsoftwareengineering.lambda-functions.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/common-libraries.com.powerupsoftwareengineering.lambda-functions.api.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/api/common-libraries.com.powerupsoftwareengineering.lambda-functions.api.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/common-libraries.com.powerupsoftwareengineering.lambda-functions.api.test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/api/common-libraries.com.powerupsoftwareengineering.lambda-functions.api.test~1.iml" />
     </modules>
   </component>
 </project>
