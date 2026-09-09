@@ -27,7 +27,6 @@ package com.powerupsoftwareengineering.lambda.functions.api;
  *
  * @author Chris Picard
  */
-@SuppressWarnings("unused")
 @FunctionalInterface
 public interface ThreeParameterFunction<T, U, V, R> {
 

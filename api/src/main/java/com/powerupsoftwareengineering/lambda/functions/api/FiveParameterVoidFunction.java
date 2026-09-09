@@ -28,7 +28,6 @@ package com.powerupsoftwareengineering.lambda.functions.api;
  *
  * @author Chris Picard
  */
-@SuppressWarnings("unused")
 @FunctionalInterface
 public interface FiveParameterVoidFunction<T, U, V, W, X> {
 

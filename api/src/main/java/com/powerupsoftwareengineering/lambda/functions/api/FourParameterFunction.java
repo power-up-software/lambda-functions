@@ -28,7 +28,6 @@ package com.powerupsoftwareengineering.lambda.functions.api;
  *
  * @author Chris Picard
  */
-@SuppressWarnings("unused")
 @FunctionalInterface
 public interface FourParameterFunction<T, U, V, W, R> {
 
